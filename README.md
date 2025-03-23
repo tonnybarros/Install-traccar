@@ -6,7 +6,7 @@ This script will automatically install the latest version of Traccar along with 
 Log into your Linux server and run the following single line:
 
 ```bash
-wget https://raw.githubusercontent.com/tonnybarros/instalar-traccar/main/instalador_traccar.sh && chmod +x instalador_traccar.sh && ./instalador_traccar.sh
+wget https://raw.githubusercontent.com/tonnybarros/Install-traccar/refs/heads/main/traccar-install.sh && chmod +x traccar-install.sh && ./traccar-install.sh
 ```
 
 At the end of the installation, you can manage Traccar by executing the following commands in the terminal:
